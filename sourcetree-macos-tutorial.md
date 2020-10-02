@@ -14,7 +14,7 @@ It's hard. It's always hard, when you do something for the first time. Especiall
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 
-## Sourcetree
+## Source tree
 
 Please note, this tutorial is for MacOS. It is similar with Sourcetree on Windows but some things may look different.
 <!--
